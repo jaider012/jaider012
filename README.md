@@ -4,17 +4,15 @@
 #### I'm a Full-Stack Developer, colombia.
  
 ##### NOW
-
 - ✨ In progress.... website;
-
 ##### BIO
 
 - 🏢 I'm currently learning at **soyHenry**
 - ⚙️ I use daily: `node`, `.js`, `.html`, `.css`, `.Redux`, `.Express`
 - 🌍 I'm mostly active within the **React community**
 - 🌱 Learning all about **React Native**
-- 💬 Ping me about **design**, **branding**, , **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/jaider_panqueva)
+- 💬 Ping me about  , **development**, **design thinking**
+- 📫 Reach me: [twitter.com/jaider](https://twitter.com/jaider_panqueva)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
 <h2 align="center">⚡ Stats ⚡</h2>
