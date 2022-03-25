@@ -13,7 +13,7 @@
 - 🌱 Learning all about **React Native**
 - 💬 Ping me about  , **development**, **design thinking**
 - 📫 Reach me: [twitter.com/jaider_panqueva](https://twitter.com/jaider_panqueva)
-- 🤵 Linkedin:[Linkedin.com/jaider_panquva](https://www.linkedin.com/in/jaider-andres-panqueva12/)
+- 🤵 Linkedin: [Linkedin.com/jaider_panquva](https://www.linkedin.com/in/jaider-andres-panqueva12/)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
 <h2 align="center">⚡ Stats ⚡</h2>
