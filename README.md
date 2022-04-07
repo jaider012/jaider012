@@ -1,5 +1,5 @@
 
-### Hi there 👋
+#### Hi there 👋
 
 #### I'm a Full-Stack Developer, colombia.
  
@@ -27,10 +27,7 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=jaider012" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
-
-  <br>
-  
+  <br><br>
 </p>
 
 
@@ -57,3 +54,4 @@ i made myself:
 <img src="https://user-images.githubusercontent.com/78737841/162271592-a3cb33fe-5d4e-441b-97e5-2cfeaf71119f.PNG">
 <p> 404 page  </p>
 <img src="https://user-images.githubusercontent.com/78737841/162270976-cda9239e-09b6-4d13-b370-028c552082f2.PNG">
+<hr> 
