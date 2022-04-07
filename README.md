@@ -1,7 +1,6 @@
 
-#### Hi there 👋
-
-#### I'm a Full-Stack Developer, colombia.
+# Hi there 👋  #
+## I'm a Full-Stack Developer, colombia. ##
  
 ##### NOW
 - ✨ In progress.... website;
@@ -27,14 +26,15 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=jaider012" />
     </a>
   </div>
-  <br><br>
+  <br><br><br><br><br><br><br>
 </p>
 
 
-<hr> 
-### Projects that
+<hr>
 
-<h2> viodegames APP </h2>
+## Projects that ##
+
+<h3> viodegames APP </h3>
 <p> This is a fullstack app that i made, that gives you the oportunity to search, filter, sort, create, update and delete pokemon. </p>
 <p> Basically a CRUD fullstack app, in which i hade to make frontend, backend and also the db models myself. </p>
 <p> Code: https://github.com/jaider012/video-games-Pi </p>
