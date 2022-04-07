@@ -7,7 +7,7 @@
 - ✨ In progress.... website;
 ##### BIO
 
-- 🏢 I'm currently learning at **soyHenry**
+- <p>  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <em>Fullstack teaching assistant and student at <a href="https://www.soyhenry.com">Soy Henry</a></em></p>
 - ⚙️ I use daily: `node`, `.js`, `.html`, `.css`, `.Redux`, `.Express`
 - 🌍 I'm mostly active within the **React community**
 - 🌱 Learning all about **React Native**
@@ -34,7 +34,30 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=jaider012" width="100%"/>
+  
 </p>
 
-<hr>
+
+<hr> 
+### Projects that
+
+<h2> viodegames APP </h2>
+<p> This is a fullstack app that i made, that gives you the oportunity to search, filter, sort, create, update and delete pokemon. </p>
+<p> Basically a CRUD fullstack app, in which i hade to make frontend, backend and also the db models myself. </p>
+<p> Code: https://github.com/jaider012/video-games-Pi </p>
+
+<p>Let's see a little bit of the app: </p>
+
+
+i made myself:
+
+<p>  Landing page </p>
+<img src="https://user-images.githubusercontent.com/78737841/162270656-5e1afa4a-1cf3-44c8-a46e-527911ca94af.PNG">
+<p> Home </p>
+<img src="https://user-images.githubusercontent.com/78737841/162270995-55f08caa-4a84-4d06-b756-0a2e8bc558f3.PNG">
+<p> Create and update pokemon </p>
+<img src="https://user-images.githubusercontent.com/78737841/162270991-1489c313-cb80-4c2e-9c78-29b855531c05.PNG">
+<p> videoGame detail </p>
+<img src="https://user-images.githubusercontent.com/78737841/162271592-a3cb33fe-5d4e-441b-97e5-2cfeaf71119f.PNG">
+<p> 404 page  </p>
+<img src="https://user-images.githubusercontent.com/78737841/162270976-cda9239e-09b6-4d13-b370-028c552082f2.PNG">
