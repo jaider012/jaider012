@@ -1,32 +1,42 @@
 
 # Hi there 👋  #
-## I'm a Full-Stack Developer, colombia. ##
- 
-##### NOW
+<img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'+am+a+fullstack+developer">
+
 - ✨ In progress.... website;
-##### BIO
+
 
 - <p>  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <em>Fullstack teaching assistant and student at <a href="https://www.soyhenry.com">Soy Henry</a></em></p>
-- ⚙️ I use daily: `node`, `.js`, `.html`, `.css`, `.Redux`, `.Express`
+- ⚙️ I use daily: `javascript`, `.js`, `.html`, `.css`, `.React` and `Posgresql`
 - 🌍 I'm mostly active within the **React community**
 - 🌱 Learning all about **React Native**
 - 💬 Ping me about  , **development**, **design thinking**
-- 📫 Reach me: [twitter.com/jaider_panqueva](https://twitter.com/jaider_panqueva)
-- 🤵 Linkedin: [Linkedin.com/jaider_panquva](https://www.linkedin.com/in/jaider-andres-panqueva12/)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- 
+### Contact Me
 
-<h2 align="center">⚡ Stats ⚡</h2>
+- 🤵 Linkedin: **[Linkedin.com/jaider_panquva](https://www.linkedin.com/in/jaider-andres-panqueva12/)**
+- 📫 Email: **jaiderandres901@hotmail.com**
+
+<h2 align="center">⚡Some other tools I use⚡</h2>
 <br>
 <p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=jaider012" alt="jaider012" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=jaider012" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br>
+<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+<a href="https://www.python.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a href="https://redux.js.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/express.png"/></a>
+<a href="https://sequelize.org/" target="_blank"><img width="40px" src="https://s2.qwant.com/thumbr/0x380/f/1/def6e5a6cedacd5856251aeaef7e52119bf19a4f70ada987080f4a3db8e074/sequelize-logo-png-transparent.png?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fsequelize-logo-png-transparent.png&q=0&b=1&p=0&a=0"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgresql.png"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
+<a href="https://mui.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>\
+<a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
+  <br>
 </p>
 
 
@@ -55,3 +65,4 @@ i made myself:
 <p> 404 page  </p>
 <img src="https://user-images.githubusercontent.com/78737841/162270976-cda9239e-09b6-4d13-b370-028c552082f2.PNG">
 <hr> 
+
