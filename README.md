@@ -6,7 +6,7 @@
 
 
 - <p>  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <em>Fullstack teaching assistant and student at <a href="https://www.soyhenry.com">Soy Henry</a></em></p>
-- ⚙️ I use daily: `javascript`, `.js`, `.html`, `.css`, `.React` and `Posgresql`
+- ⚙️ I use daily: `javascript`, `.Typescript`, `.html`, `.css`, `.React` and `Posgresql`
 - 🌍 I'm mostly active within the **React community**
 - 🌱 Learning all about **React Native**
 - 💬 Ping me about  , **development**, **design thinking**
