@@ -14,7 +14,7 @@
 - 
 ### Contact Me
 
-- 🤵 Linkedin: **[Linkedin.com/jaider_panquva](https://www.linkedin.com/in/jaider-andres-panqueva12/)**
+- 🤵 Linkedin: **[Linkedin.com/jaider_panqueva](https://www.linkedin.com/in/jaider-andres-panqueva12/)**
 - 📫 Email: **jaiderandres901@hotmail.com**
 
 <h2 align="center">⚡Some other tools I use⚡</h2>
