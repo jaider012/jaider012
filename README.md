@@ -2,7 +2,7 @@
 # Hi there 👋  #
 <img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'+am+a+fullstack+developer">
 
-- ✨ website;
+- ✨ website: https://famous-tapioca-6272c1.netlify.app/
 
 
 - <p>  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <em>Fullstack teaching assistant and student at <a href="https://www.soyhenry.com">Soy Henry</a></em></p>
