@@ -42,29 +42,3 @@
 
 <hr>
 
-## Projects that ##
-i made myself:
-<h3> viodegames APP </h3>
-<p> This is a fullstack app that i made, that gives you the oportunity to search, filter, sort, create, update and delete pokemon. 
-Basically a CRUD fullstack app, in which i hade to make frontend, backend and also the db models myself. </br>
-Code: https://github.com/jaider012/video-games-Pi </p>
-
-<p>Let's see a little bit of the app: </p>
-
-
-
-<p>  Landing page </p>
-<img src="https://user-images.githubusercontent.com/78737841/162270656-5e1afa4a-1cf3-44c8-a46e-527911ca94af.PNG">
-<p> Home </p>
-<img src="https://user-images.githubusercontent.com/78737841/162270995-55f08caa-4a84-4d06-b756-0a2e8bc558f3.PNG">
-<p> 404 page  </p>
-<img src="https://user-images.githubusercontent.com/78737841/162270976-cda9239e-09b6-4d13-b370-028c552082f2.PNG">
-<hr> 
-<h3>
-FAKE google!
-
-</h3>
-<p>
-  this project is created using react and the google api is fully functional
-</p>
-<img src="https://user-images.githubusercontent.com/78737841/167179944-da6f506c-a047-4017-abf4-5ee504d115d5.gif"  align="center" />
