@@ -4,14 +4,13 @@
 
 - ✨ website: https://famous-tapioca-6272c1.netlify.app/
 
-
-- <p>  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <em></em></p>
 - ⚙️ I use daily: `javascript`, `.Typescript`, `.html`, `.css`, `.React` and `Posgresql`
 - 🌍 I'm mostly active within the **React community**
 - 🌱 Learning all about **React Native**
 - 💬 Ping me about  , **development**, **design thinking**
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
-- 
+ - <p>  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <em></em></p>
+ 
 ### Contact Me
 
 - 🤵 Linkedin: **[Linkedin.com/jaider_panqueva](https://www.linkedin.com/in/jaider-andres-panqueva12/)**
