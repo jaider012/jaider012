@@ -1,41 +1,73 @@
+<div align="center">
+  
+# ✨ Jaider Panqueva ✨
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=E6B577&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;React+Native+Specialist;Cloud+Architecture+Enthusiast)](https://git.io/typing-svg)
 
-# Hi there 👋  #
-<img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'+am+a+fullstack+developer">
-
-- ✨ website: https://famous-tapioca-6272c1.netlify.app/
-
-- ⚙️ I use daily: `javascript`, `.Typescript`, `.html`, `.css`, `.React` and `Posgresql`
-- 🌍 I'm mostly active within the **React community**
-- 🌱 Learning all about **React Native**
-- 💬 Ping me about  , **development**, **design thinking**
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
- - <p>  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <em></em></p>
- 
-### Contact Me
-
-- 🤵 Linkedin: **[Linkedin.com/jaider_panqueva](https://www.linkedin.com/in/jaider-andres-panqueva12/)**
-- 📫 Email: **jaiderandres901@hotmail.com**
-
-<h2 align="center">⚡Some other tools I use⚡</h2>
-<br>
-<p align=center>
-<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-<a href="https://redux.js.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/express.png"/></a>
-<a href="https://sequelize.org/" target="_blank"><img width="40px" src="https://s2.qwant.com/thumbr/0x380/f/1/def6e5a6cedacd5856251aeaef7e52119bf19a4f70ada987080f4a3db8e074/sequelize-logo-png-transparent.png?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fsequelize-logo-png-transparent.png&q=0&b=1&p=0&a=0"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgresql.png"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
-<a href="https://mui.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>\
-<a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
-  <br>
+<p>
+  <a href="https://www.linkedin.com/in/jaider-andres-panqueva12/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:jaiderandres901@hotmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://famous-tapioca-6272c1.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 </p>
+</div>
 
+## 🧙‍♂️ About Me
 
-<hr>
+> *"It's not our abilities that show what we truly are... it's our choices"* - Albus Dumbledore
 
+I'm a passionate Full Stack Developer who believes in crafting magical digital experiences. Currently enchanting code at AlleyCorp Sur as a Software Engineer II, where I transform complex problems into elegant solutions.
+
+## 🪄 Professional Highlights
+
+- 🌟 Reduced development costs through cross-platform mobile solutions
+- 🎯 Improved system uptime by 20% with microservices architecture
+- 🚀 Enhanced API response times with optimized backend design
+- 📚 Mentored junior developers and led successful development teams
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+| Frontend | Backend | Cloud & DevOps |
+|:--------:|:-------:|:--------------:|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
+
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaider012&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaider012&theme=radical)](https://git.io/streak-stats)
+
+</div>
+
+## 🎓 Educational Journey
+
+```mermaid
+graph LR
+    A[Software Development Technology] -->|2020-2022| B[Fundación Universitaria Católica]
+    B -->|2022-2025| C[Computer Software Engineering]
+```
+
+## 🌍 Languages
+
+- 🇺🇸 English (Professional Working)
+- 🇫🇷 French (Professional Working)
+- 🇪🇸 Spanish (Native)
+
+<div align="center">
+
+## ⭐️ Favorite Quote
+
+> *"Happiness can be found even in the darkest of times if one only remembers to turn on the light."*
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=jaider012&color=blueviolet&style=flat-square&label=Profile+Views"/>
+
+</div>
