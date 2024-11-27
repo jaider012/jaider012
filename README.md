@@ -42,7 +42,6 @@ I'm a passionate Full Stack Developer who believes in crafting magical digital e
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaider012&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaider012&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
