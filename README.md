@@ -61,10 +61,6 @@ graph LR
 
 <div align="center">
 
-## ⭐️ Favorite Quote
-
-> *"Happiness can be found even in the darkest of times if one only remembers to turn on the light."*
-
 ---
 
 <img src="https://komarev.com/ghpvc/?username=jaider012&color=blueviolet&style=flat-square&label=Profile+Views"/>
