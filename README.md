@@ -118,8 +118,8 @@ graph TD
 
 ## 🌍 Languages
 
-- 🇺🇸 English (Professional Working)
-- 🇫🇷 French (Professional Working)
+- 🇺🇸 English (Professional Working) B2
+- 🇫🇷 French (Professional Working) B1
 - 🇪🇸 Spanish (Native)
 
 ## 📫 Let's Connect!
