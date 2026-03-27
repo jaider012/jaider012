@@ -1,7 +1,9 @@
 <div align="center">
-  
-# ✨ Jaider Panqueva ✨
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=200&section=header&text=Jaider%20Panqueva&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Software%20Engineer%20II%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55&descColor=ffffff" width="100%"/>
+
+<h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> Hey there!</h3>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=E6B577&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;React+Native+Specialist;Cloud+Architecture+Enthusiast;Problem+Solver;Tech+Innovator)](https://git.io/typing-svg)
 
 <p>
@@ -12,6 +14,8 @@
 </p>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🧙‍♂️ About Me
 
 > *"It's not our abilities that show what we truly are... it's our choices"* - Albus Dumbledore
@@ -19,6 +23,8 @@
 I'm a passionate Full Stack Developer who transforms complex problems into elegant, user-friendly solutions. Currently enchanting code at **AlleyCorp Sur** as a Software Engineer II, where I specialize in creating cross-platform mobile applications and robust cloud architectures.
 
 With a background in both frontend and backend technologies, I thrive in dynamic environments where innovation and technical excellence are valued. My approach combines creative problem-solving with disciplined engineering practices to deliver exceptional digital experiences.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 What I Do
 
@@ -28,6 +34,8 @@ With a background in both frontend and backend technologies, I thrive in dynamic
 - **Mentor** junior developers to elevate team capabilities
 - **Collaborate** across disciplines to deliver cohesive products
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🏆 Professional Achievements
 
 - 🌟 Reduced mobile development costs by 35% through implementing cross-platform React Native solutions
@@ -35,6 +43,12 @@ With a background in both frontend and backend technologies, I thrive in dynamic
 - 🚀 Enhanced API response times by 60% through backend optimization and caching strategies
 - 📈 Spearheaded migration to TypeScript, reducing production bugs by 40%
 - 👨‍💻 Led a team of 5 developers to deliver a critical product release ahead of schedule
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaider012&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💼 Featured Projects
 
@@ -59,39 +73,28 @@ With a background in both frontend and backend technologies, I thrive in dynamic
   </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## ⚡ Tech Arsenal
 
 <div align="center">
   <h3>Frontend</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  </p>
-  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind,html,css&theme=dark" />
+  </a>
+
   <h3>Backend</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </p>
-  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,graphql,mongodb,postgres&theme=dark" />
+  </a>
+
   <h3>Cloud & DevOps</h3>
-  <p>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,githubactions,terraform,linux&theme=dark" />
+  </a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 GitHub Analytics
 
@@ -104,17 +107,37 @@ With a background in both frontend and backend technologies, I thrive in dynamic
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaider012&theme=radical" alt="GitHub streak stats" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaider012&theme=redical&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaider012/jaider012/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaider012/jaider012/output/github-snake.svg" />
+    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/jaider012/jaider012/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🎓 Educational Journey
 
 ```mermaid
 graph TD
     A[Software Development Technology] -->|2020-2022| B[Fundación Universitaria Católica]
     B -->|2022-2025| C[Computer Software Engineering]
-    
+
     D[Self-Learning] -->|Continuous| E[Advanced Cloud Architecture]
     D -->|Continuous| F[Mobile Development Mastery]
     D -->|Continuous| G[UI/UX Design Principles]
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌍 Languages
 
@@ -122,9 +145,17 @@ graph TD
 - 🇫🇷 French (Professional Working) A2
 - 🇪🇸 Spanish (Native)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 📫 Let's Connect!
 
 I'm always interested in challenging projects and opportunities to collaborate with fellow developers. Whether you have a question or just want to say hi, feel free to reach out!
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jaider-andres-panqueva12/"><img src="https://img.shields.io/badge/Let's_talk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -133,3 +164,5 @@ I'm always interested in challenging projects and opportunities to collaborate w
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jaider012&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=120&section=footer" width="100%"/>
