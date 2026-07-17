@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=200&section=header&text=Jaider%20Panqueva&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Software%20Engineer%20II%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=200&section=header&text=Jaider%20Panqueva&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55&descColor=ffffff" width="100%"/>
 
 <h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> Hey there!</h3>
 
