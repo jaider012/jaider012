@@ -1,6 +1,6 @@
 <h1 align="center">Jaider Panqueva</h1>
 
-<h3 align="center">Software Engineer II @ AlleyCorp Sur &nbsp;·&nbsp; Cali, Colombia 🇨🇴</h3>
+<h3 align="center">AI Engineer &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; Cali, Colombia 🇨🇴</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jaider-andres-panqueva12/" target="_blank">
@@ -18,9 +18,9 @@
 
 <div align="left">
 
-Full stack developer. React and React Native on the front, Node.js and Python on the back, AWS and GCP underneath.
+I build agents and RAG systems, and I ship the products around them end to end — React and React Native on the front, Node.js and Python on the back, AWS and GCP underneath.
 
-Lately I spend my nights building agents, RAG pipelines and native macOS tooling — the stuff below is all real, running code.
+Most of what I care about right now lives below: coding agents, retrieval pipelines, and native tooling. All of it is real, running code.
 
 </div>
 
@@ -97,7 +97,7 @@ Lately I spend my nights building agents, RAG pipelines and native macOS tooling
 
 ###
 
-<h3 align="left">At AlleyCorp Sur</h3>
+<h3 align="left">Previously — Software Engineer II, AlleyCorp Sur</h3>
 
 <div align="left">
 
@@ -105,7 +105,7 @@ Lately I spend my nights building agents, RAG pipelines and native macOS tooling
 - Moved a monolith to microservices; reliability up ~20%, now at 99.9% uptime
 - Cut API p95 response time ~60% with query tuning and a caching layer
 - Led the TypeScript migration; production bugs down ~40%
-- Mentor 5 developers across frontend and backend
+- Mentored 5 developers across frontend and backend
 
 </div>
 
